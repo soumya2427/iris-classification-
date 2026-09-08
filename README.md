@@ -2,6 +2,7 @@
 Iris Flower Classification is a machine learning project that identifies the species of an iris flower based on its sepal length, sepal width, petal length, and petal width. The project uses the Iris dataset containing three species: Setosa, Versicolor, and Virginica. This predicts the species of a new flower and checks .
 
 1. Project Overview
+
    Iris Flower Classification is a machine learning project used to classify iris flowers into three different species based on their measurements.
 
 2. Objectives
@@ -38,16 +39,16 @@ The project uses the K-Nearest Neighbors (KNN) classification algorithm with K =
 
 6. Working
    
-.Load the Iris dataset.
-.Display and analyze the data.
-.Separate features and target values.
-.Split the dataset into training and testing data.
-.Train the KNN model.
-.Predict flower species.
-.Calculate model accuracy.
-.Display the classification report and confusion matrix.
-.Predict the species of a new flower.
-.Visualize the dataset using a scatter plot.
+Load the Iris dataset.
+Display and analyze the data.
+Separate features and target values.
+Split the dataset into training and testing data.
+Train the KNN model.
+Predict flower species.
+Calculate model accuracy.
+Display the classification report and confusion matrix.
+Predict the species of a new flower.
+Visualize the dataset using a scatter plot.
 
 7. Sample Prediction
  
